@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <data>
+        <jurusan>D3 Teknik Informatika</jurusan>
+        <tahun2018>180</tahun2018>
+        <tahun2019>190</tahun2019>
+        <tahun2020>200</tahun2020>
+    </data>
+    <data>
+        <jurusan>D3 Kimia</jurusan>
+        <tahun2018>140</tahun2018>
+        <tahun2019>130</tahun2019>
+        <tahun2020>145</tahun2020>
+    </data>
+    <data>
+        <jurusan>D3 Fisika</jurusan>
+        <tahun2018>110</tahun2018>
+        <tahun2019>120</tahun2019>
+        <tahun2020>140</tahun2020>
+    </data>
+    <data>
+        <jurusan>D3 Metrologi dan Instrumentasi</jurusan>
+        <tahun2018>100</tahun2018>
+        <tahun2019>120</tahun2019>
+        <tahun2020>115</tahun2020>
+    </data>
+    <data>
+        <jurusan>D3 Statistika</jurusan>
+        <tahun2018>160</tahun2018>
+        <tahun2019>170</tahun2019>
+        <tahun2020>190</tahun2020>
+    </data>
+</Data>

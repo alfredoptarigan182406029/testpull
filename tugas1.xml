@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mahasiswa author="Alfredo Patricius Tarigan">
+    <mahasiswa>
+        <nama>Alfredo P Tarigan</nama>
+        <jk>Laki - Laki</jk>
+        <alamat>Jalan Bunga Mawar Nomor 67-B</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nama>M Ferary Siregar</nama>
+        <jk>Laki - Laki</jk>
+        <alamat>Jalan Ironmen Nomor 68</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nama>Hasbi Assidiqi</nama>
+        <jk>Laki - Laki</jk>
+        <alamat>Jalan Ucup Surucup Nomor 99</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nama>Andre Nicolas Ginting</nama>
+        <jk>Laki - Laki</jk>
+        <alamat>Jalan Setia Budi Nomor 60</alamat>
+    </mahasiswa>
+    <mahasiswa>
+        <nama>Rizki Harahap</nama>
+        <jk>Laki - Laki</jk>
+        <alamat>Jalan Ironmen Nomor 10</alamat>
+    </mahasiswa>
+</Mahasiswa>    
